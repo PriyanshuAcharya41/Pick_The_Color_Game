@@ -5,6 +5,8 @@
 🚀 About the Project
 Welcome to "Choose the Color", a fun and interactive color-guessing game designed to enhance your ability to recognize RGB colors! 🌈 Built using HTML, CSS, Bootstrap, and JavaScript, this game demonstrates Document Object Manipulation (DOM) in action.
 
+![Game Start](game1_1.png)
+
 🎯 Objective:
 
 Players must guess the correct color based on the given RGB value.
