@@ -43,6 +43,8 @@ Edit
 cd choose-the-color-game
 3️⃣ Open index.html in your browser! 🚀
 
+![Game Start](game1_2.png)
+
 (No additional setup required!)
 
 🤝 Contributing
