@@ -24,9 +24,8 @@ Select the right color from multiple choices and test your knowledge!
 🔹 Bootstrap – Responsive design
 🔹 JavaScript – Game logic and interactivity
 
-📸 Screenshots
-Game Start	Playing the Game	Winning Screen
-(Replace these with actual screenshots!)		
+
+Game Start	Playing the Game	Winning Screen	
 📂 Installation & Setup
 1️⃣ Clone this repository:
 
