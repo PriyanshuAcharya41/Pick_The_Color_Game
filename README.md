@@ -59,5 +59,5 @@ Submit a Pull Request
 
 📬 Contact
 📧 Your Name: Priyanshu Acharya
-🔗 GitHub:[ @your-github](https://github.com/PriyanshuAcharya41/)
+🔗 GitHub:[Priyanshu_acharya41](https://github.com/PriyanshuAcharya41/)
 
