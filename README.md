@@ -23,7 +23,6 @@ Select the right color from multiple choices and test your knowledge!
 🛠️ Built With
 🔹 HTML5 – Structuring the game layout
 🔹 CSS3 – Styling and animations
-🔹 Bootstrap – Responsive design
 🔹 JavaScript – Game logic and interactivity
 
 
